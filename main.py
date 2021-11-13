@@ -217,7 +217,6 @@ def manageCamera(app): #to regulate the position of the camera
         app.camera[1] = 0
     elif app.camera[1] > app.world_bottom - app.height:
         app.camera[1] = app.world_bottom - app.height
-    print(app.camera)
 
 def game_redrawAll(app, canvas):
     if app.gameOver:
