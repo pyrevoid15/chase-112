@@ -1,0 +1,286 @@
+[
+    {
+        "name": "Chased?",
+        "background": "#0fee00",
+        "timer": 30,
+        "enemies": [
+            "chaser 500,500"
+        ]
+    },
+    {
+        "name" : "Make It Double",
+        "background": "#0fee00",
+        "timer": 35,
+        "enemies" : [
+            "chaser 400,400",
+            "tchaser 600,300"
+        ]
+    },
+    {
+        "name" : "Arrows",
+        "background": "#0fee00",
+        "timer": 40,
+        "enemies" : [
+            "archer 400,400",
+            "archer 600,300"
+        ]
+    },
+    {
+        "name" : "Melee and Ranged",
+        "background": "#0fee00",
+        "timer": 40,
+        "enemies" : [
+            "archer 400,400",
+            "chaser 600,300",
+            "tchaser 200,300"
+        ]
+    },
+    {
+        "name" : "The Bushes",
+        "background": "#0fee00",
+        "timer": 50,
+        "enemies" : [
+            "archer 400,400",
+            "warcher 600,300",
+            "warcher 200,300"
+        ]
+    },
+    {
+        "name" : "Four Soldiers",
+        "background": "#0fee00",
+        "timer": 50,
+        "enemies" : [
+            "chaser 400,400",
+            "tchaser 600,300",
+            "archer 400,400",
+            "warcher 400,400"
+        ]
+    },
+    {
+        "name" : "Safe Bushes",
+        "background": "#0fee00",
+        "timer": 50,
+        "enemies" : [
+            "chaser 400,400",
+            "archer 400,400",
+            "warcher 400,400",
+            "warcher 500,500"
+        ]
+    },
+    {
+        "name" : "Captured Arrows",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "archer 400,400",
+            "archer 400,400",
+            "warcher 400,400",
+            "vortal 500,500"
+        ]
+    },
+    {
+        "name" : "Every Direction",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400,400",
+            "tchaser 600,300",
+            "warcher 400,400",
+            "warcher 400,400",
+            "vortal 500,500"
+        ]
+    },
+    {
+        "name" : "Arrows ad Infinitum",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400,400",
+            "archer 400,400",
+            "archer 600,400",
+            "warcher 600,300",
+            "warcher 600,300",
+            "vortal 500,500"
+        ]
+    },
+    {
+        "name" : "Sniper Squad",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "rifleman 400,400",
+            "rifleman 600,400",
+            "rifleman 600,300",
+            "rifleman 600,300"
+        ]
+    },
+    {
+        "name" : "Deadly Traps",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "trapper 610, 300",
+            "trapper 620, 300",
+            "warcher 630, 300",
+            "vortal 500, 300"
+        ]
+    },
+    {
+        "name" : "Reinforcements",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "tchaser 600, 300",
+            "tchaser 600, 300",
+            "tchaser 600, 300",
+            "trapper 700, 700"
+        ]
+    },
+    {
+        "name" : "No Man's Land",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "trapper 600, 300",
+            "trapper 600, 300",
+            "trapper 600, 300",
+            "rifleman 600, 300"
+        ]
+    },
+    {
+        "name" : "Targeted",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "laserist 600, 300",
+            "laserist 600, 300",
+            "rifleman 600, 300"
+        ]
+    },
+    {
+        "name" : "Fences",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "laserist 600, 300",
+            "laserist 600, 300",
+            "laserist 600, 300",
+            "laserist 600, 300",
+            "lancer 600, 300"
+        ]
+    },
+    {
+        "name" : "The Young Masters",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "lancer 400, 400",
+            "lancer 600, 300",
+            "lancer 600, 300"
+        ]
+    },
+    {
+        "name" : "Surrounded",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "tchaser 600, 300",
+            "tchaser 600, 300",
+            "laserist 600, 300",
+            "warcher 600, 300",
+            "trapper 600, 300"
+        ]
+    },
+    {
+        "name" : "Guess",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "chaser 600, 300"
+        ]
+    },
+    {
+        "name" : "Watch Your Step",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "ghost 600, 300",
+            "chaser 600, 300",
+            "trapper 600, 300"
+        ]
+    },
+    {
+        "name" : "Small Mob",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "tchaser 400, 400",
+            "tchaser 400, 400",
+            "tchaser 400, 400",
+            "tchaser 400, 400",
+            "tchaser 400, 400",
+            "lancer 400, 400"
+        ]
+    },
+    {
+        "name" : "Safer Bushes",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "chaser 400, 400",
+            "tchaser 600, 300",
+            "trapper 600, 300",
+            "archer 600, 300",
+            "warcher 600, 300",
+            "archer 600, 300",
+            "warcher 600, 300"
+        ]
+    },
+    {
+        "name" : "No Refuge",
+        "background": "#0fee00",
+        "timer": 60,
+        "enemies" : [
+            "lancer 500, 500",
+            "lancer 500, 500",
+            "laserist 500, 500",
+            "laserist 500, 500",
+            "rifleman 500, 500",
+            "rifleman 500, 500",
+            "trapper 500, 500"
+        ]
+    },
+    {
+        "name" : "Grand Finale",
+        "background": "#0fee00",
+        "timer": 120,
+        "enemies" : [
+            "chaser 400, 400",
+            "tchaser 600, 300",
+            "tchaser 600, 300",
+            "archer 600, 300",
+            "warcher 600, 300",
+            "warcher 600, 300",
+            "vortal 600, 300",
+            "trapper 600, 300",
+            "lancer 600, 300",
+            "ghost 600, 300",
+            "laserist 600, 300"
+        ]
+    }
+]
